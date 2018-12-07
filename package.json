@@ -1,7 +1,7 @@
 {
-  "name": "banter-bot",
-  "version": "1.0.0",
-  "description": "My own Discord bot",
+  "name": "oofbot",
+  "version": "1.0.1",
+  "description": "can you handle the oof",
   "main": "soundboard.js",
   "author": "mcclowes",
   "dependencies": {
