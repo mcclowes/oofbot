@@ -27,6 +27,10 @@ Create a file called `.env` (just that, no file suffix). Copy the contents of ex
 
 `npm run start`
 
+If you want to see more details about the state of the application, instead run:
+
+`npm run verbose`
+
 ---
 
 ## Deploying to Heroku
