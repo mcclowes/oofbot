@@ -13,6 +13,7 @@
     "winston": "^3.1.0"
   },
   "scripts": {
-    "start": "node soundboard.js"
+    "start": "node soundboard.js",
+    "verbose": "node soundboard.js -- --verbose"
   }
 }
